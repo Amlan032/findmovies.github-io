@@ -1,0 +1,35 @@
+#movie{
+  margin: 20px;
+  width:90%;
+}
+body{
+  background-color:#778899;
+}
+#wow{
+  background-color:#2f4f4f;
+  padding:10px;
+  margin:auto;
+  margin-top:30px;
+  width:50%;
+  border:solid 1px;
+  border-radius:10px;
+}
+#submit{
+  margin-left:40%;
+}
+#details{
+  margin:20px;
+ }
+#image{
+  padding:40px;
+}
+img{
+  width:100%;
+}
+#info{
+  font-size:20px;
+  border:solid 1px;
+  padding-top:10%;
+  font-family: 'Merriweather', serif;
+  background-color:#90EE90;
+}
